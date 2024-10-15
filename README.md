@@ -30,7 +30,9 @@ Approach
 
 Data Preprocessing: Cleaning and preparing the dataset for analysis, handling missing values, encoding categorical variables, and feature scaling.
 
-Model Building: Training and evaluating various machine learning models for churn prediction. XGBoost and TensorFlow were used to make the prediction.
+Exploratory Data Analysis: I did a deep dive to understand and generate insight from the data. I looked at different insights like churn rate, risk ratio, correlation, mutual information, etc.
+
+Model Building: Training and evaluating various machine learning models for churn prediction. Logistic Regression, XGBoost and TensorFlow were used to make the prediction.
 
 Model Evaluation and Optimization: Assessing model performance using AUC-ROC evaluation metrics. Fine-tuning hyperparameters to improve model metric and generalization.
 
@@ -38,7 +40,7 @@ Dependencies
 
 Python 3
 
-Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, TensorFlow.
+Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, XGBoost, TensorFlow.
 
 Usage
 
